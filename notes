@@ -1,0 +1,14 @@
+//LOOPS
+for(expression;condition;increment){
+  statement
+}
+
+//ex
+
+for (var i = 0; i < 5; i++) {
+    console.log(i)
+}
+
+for (var i = 0; i < fruitList.length; i++) {
+  console.log("I have some " + fruitList[i]);
+}
